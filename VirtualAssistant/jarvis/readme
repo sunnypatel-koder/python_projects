@@ -1,0 +1,10 @@
+To start browser automation,you have to install chrome driver.
+
+Follow these steps to install chrome driver:-
+
+Step-1: Open this link "https://chromedriver.storage.googleapis.com/index.html?path=96.0.4664.45/" in your any browser.
+
+Step-2: Download chrome driver zip file according to you system specification.
+
+Step-3: Open cmd or powershell in administrative mode and write -> pip install chrome_driver_zip_file_path_you_have_downloaded
+
