@@ -1,1 +1,1 @@
-# python_projects
+# This was my minor project in my Diploma.
